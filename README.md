@@ -14,4 +14,11 @@ http://localhost/crud-ajax-simple
 ```
     
 
+## Screenshots
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax-simple/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax-simple/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax-simple/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/crud-ajax-simple/main/Screenshots/Output-04.png)
+
+
 ## 🔗 www.codehafeez.com
